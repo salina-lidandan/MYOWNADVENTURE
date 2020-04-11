@@ -1,0 +1,24 @@
+h1{color:#8ac6d1;}
+body{background:#ffb6b9;}
+h3{color:#fffdf9;}
+h1{text-align: center;}
+h3{text-align: center;}
+
+p{text-align: center;
+
+}
+a:link {
+  text-decoration: none;
+}
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+.word{
+  color:#ff677d;
+  font-size:28px;
+   margin-top:-20px;
+ }
+H2{color:#ff7c7c}
+h2{text-align: center;}
